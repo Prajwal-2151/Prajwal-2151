@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Punekar</h1>
-<h3 align="center">A passionate Django developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*w1BTUZctqyEYJrldIqJXqg.gif">
 
 <p align="left"> <a href="https://twitter.com/prajwalpunekar" target="blank"><img src="https://img.shields.io/twitter/follow/prajwalpunekar?logo=twitter&style=for-the-badge" alt="prajwalpunekar" /></a> </p>
